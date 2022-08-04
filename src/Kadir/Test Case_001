@@ -1,0 +1,6 @@
+
+New test case..
+
+ public Tester(String name, int age, char gender, int employeeID, String jobTitle, double salary) {
+        super(name, age, gender, employeeID, jobTitle, salary);
+    }
